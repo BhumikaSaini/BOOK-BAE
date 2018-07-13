@@ -12,6 +12,6 @@ HOW TO USE:
 
 You will need to configure the project with your credentials to use it, for obvious reasons.
 
-This includes setting the database url, API keys, nodemailer credentials & more which you will realise as you explore the code.
+This includes setting the database url, API keys, getting your google-services.json, nodemailer credentials & more which you will realise as you explore the code.
 
 Apart from the credentials, the code is fully functional.
